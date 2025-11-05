@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Duaa<br>I am a Data Science graduate, looking forward to take my career in AI.<br>Currently exploring agentic AI.<br>I create web apps for fun.
+Hi, I am Duaa<br>I am a Data Science graduate, currently working as a AI Research Assistant and exploring the field of Agentic AI. 
 
 
 ## 🌐 Socials:
